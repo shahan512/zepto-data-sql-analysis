@@ -1,7 +1,7 @@
 # Zepto Portfolio Data Analytics
 
 ## Project Overview
-This project analyzes a Zepto e-commerce dataset to uncover insights about product pricing, discounts, inventory, and category-wise trends. The dataset was sourced from Kaggle and mimics real-world e-commerce inventory data.
+This project analyzes a Zepto e-commerce dataset sourced from **Kaggle** to uncover insights about product pricing, discounts, inventory, and category-wise trends. The dataset was sourced from Kaggle and mimics real-world e-commerce inventory data.
 
 ## Dataset Description
 - Each row represents a unique SKU (Stock Keeping Unit) for a product.
